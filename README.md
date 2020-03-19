@@ -11,6 +11,8 @@ Further information on the solver package itself can be found here: [NTMpy](http
 
 Documentation and example sessions can be found in the [Wiki](https://github.com/udcm-su/heat-diffusion-1D/wiki).
 
+Please cite the referring [article](https://arxiv.org/abs/2002.04559). 
+
 ------------------------------------------------------------------------------------------------------------------
 
 This is a code providing a solution to the heat diffusion in a 1D structure in a 2-temperature model approximation.
@@ -60,9 +62,14 @@ You can directly contact us via mail: [Lukas Alber](mailto:lukas.alber@fysik.su.
 
 
 #### Cite 
-   <p align="center"> 
-   <img src="https://zenodo.org/badge/158247812.svg" width="300" height="30" />   
-   </p>
+`@misc{alber2020ntmpy,
+    title={NTMpy: An open source package for solving coupled parabolic differential equations in the framework of the three-temperature model},
+    author={Lukas Alber and Valentino Scalera and Vivek Unikandanunni and Daniel Schick and Stefano Bonetti},
+    year={2020},
+    eprint={2002.04559},
+    archivePrefix={arXiv},
+    primaryClass={cond-mat.other}
+}`
 
 
 
